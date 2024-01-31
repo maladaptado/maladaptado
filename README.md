@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maladaptado
+- 👋 Hi, I’m @maladaptado/gustavo 
 - 👀 I’m interested in getting a job  
 - 🌱 I’m currently learning algorithm and programming logic
 - 📫 How to reach me www.linkedin.com/in/gustavo-matos-567a9320b
